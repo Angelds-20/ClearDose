@@ -1,0 +1,39 @@
+INFORME DE REFLEXIÓN: LAVADO CONSCIENTE Y EL FUTURO DEL AGUA (Cleardose)
+
+I. DIAGNÓSTICO INICIAL (NUESTRA VISIÓN)
+
+1. Pregunta para reflexionar:
+   ¿Por qué nos cuesta tanto sentir el peso de cada litro que desperdiciamos al lavar un auto? Si tuviéramos que acarrear esa agua en baldes, ¿la usaríamos con el mismo descuido? Esta app nace para darnos esa "visión" que hoy no tenemos.
+
+2. Lienzo de Ideas (Lo que hemos aprendido):
+   - El agua en el grifo se siente infinita porque no la vemos acabarse. Necesitamos que el usuario "vea" el volumen real que consume.
+   - No desperdiciamos por maldad, sino por falta de guía. Un dueño de un auto pequeño a veces gasta lo mismo que el de un camión simplemente porque no sabe cuánto es "suficiente".
+   - La tecnología (la cámara y la IA) no debe ser algo frío; debe ser una herramienta que nos ayude a ser mejores ciudadanos del mundo.
+   - El ahorro no es solo un número; es el tiempo y el recurso que le dejamos a las futuras generaciones.
+
+II. 5 DESAFÍOS COTIDIANOS Y CÓMO QUEREMOS AYUDAR
+
+PROBLEMA 1: El miedo a que el auto "quede sucio"
+A veces dejamos la manguera abierta minutos de más solo para asegurarnos de que no quede ni una mancha, sin darnos cuenta de que esos 5 minutos extra son litros que se pierden para siempre.
+NUESTRA IDEA: La cámara como tu guía
+Al escanear tu auto, la app te dice exactamente cuánta superficie hay que limpiar. Es como tener un experto a tu lado que te dice: "Ya está listo, con esta cantidad es suficiente".
+
+PROBLEMA 2: Tratar a todos los autos por igual
+No tiene sentido usar la misma cantidad de agua para un auto compacto que para una camioneta familiar. Hoy en día, lavamos "al ojo", y en ese cálculo aproximado es donde más perdemos.
+NUESTRA IDEA: Tu cuota personal de ahorro
+La app reconoce el tamaño de tu vehículo y te propone un "reto": lavarlo con la cantidad exacta que su tamaño requiere. Es un compromiso entre tú, tu auto y el planeta.
+
+PROBLEMA 3: La presión que no ayuda
+Muchos creemos que abrir el grifo al máximo limpia más rápido. En realidad, solo estamos golpeando la pintura con más fuerza y desperdiciando agua que rebota sin limpiar.
+NUESTRA IDEA: Consejos sobre el flujo ideal
+Según lo que la cámara vea (el tipo de auto y su tamaño), la app te sugerirá qué tan abierto debe estar el grifo. Menos presión, más eficiencia, mejor cuidado.
+
+PROBLEMA 4: Lo difícil que es medir el éxito
+¿Cómo sabes si hoy ahorraste más que la semana pasada? Sin datos claros, es muy difícil mantener el hábito de cuidar el agua a largo plazo.
+NUESTRA IDEA: Una visión que te motiva
+Al automatizar la medición con la cámara, eliminamos la flojera de tener que anotar cosas. La app crea un "gemelo virtual" de tu auto para mostrarte dónde estás siendo eficiente y dónde podrías mejorar.
+
+PROBLEMA 5: Sentir que nuestro ahorro no cuenta
+A veces pensamos que ahorrar 10 litros no cambia nada. Esa sensación de "qué tanto es tantito" es el principal enemigo del ahorro hídrico.
+NUESTRA IDEA: Ver el impacto de nuestra comunidad
+La app te muestra cuánto has ahorrado en total comparado con un lavado tradicional. Ver esos "litros rescatados" acumulados en tu pantalla hace que el esfuerzo se sienta real y valioso.

@@ -1,0 +1,32 @@
+# Built artifacts
+**/build/
+*.apk
+*.aar
+*.ap_
+*.der
+*.pem
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc. - contains local paths and keys)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio Local Config
+.idea/caches/
+.idea/libraries/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/modules.xml
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db

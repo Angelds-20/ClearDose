@@ -27,3 +27,7 @@ ClearDose is an Android application designed to calculate the exact amount of wa
 2. Open the project in Android Studio (Jellyfish or newer).
 3. Build and run the app on an ARCore-supported device.
 4. To use the photo-based estimation, get a free API key from [Google AI Studio](https://aistudio.google.com/) and enter it in the **Profile** screen.
+
+## Author
+
+- **Angelds-20** - [GitHub Profile](https://github.com/Angelds-20)
